@@ -8,14 +8,14 @@
 
 ## Features
 
-*Navigate through different sections without load.
-*Build it with pure css. No SASS.
-*Responsive.
+* Navigate through different sections without load.
+* Build it with pure css. No SASS.
+* Responsive.
 
 ## Credits
 
-*This challenge was completed by me but the assets were provided my frontend mentor.
-*fonts and guidance by frontend mentor
+* This challenge was completed by me but the assets were provided my frontend mentor.
+* fonts and guidance by frontend mentor
 
 
 **Thanks for watching!** 🚀
