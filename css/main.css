@@ -283,6 +283,9 @@ reusable classes*/
 }
 }
 @media (max-width: 375px) {
+	.grid-item{
+		width: 100%;
+	}
 	ul li{
 		padding: 0 0.4rem;
 	}
